@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
-    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/latest/download/DualVoicer_Setup.exe",
-    "release_notes": "🎉 Version 2.0 Release Notes:\n\n✨ New Features:\n- Auto-Update System with progress tracking\n- Improved stability and performance\n- Enhanced UI/UX design\n\n🐛 Bug Fixes:\n- Fixed authentication issues\n- Resolved network timeout problems\n- Improved error handling\n\n📝 Changes:\n- Updated dependencies\n- Better resource management\n- Optimized voice recognition"
+    "version": "2.1.1",
+    "release_notes": "✨ Major Update v2.1.1\n\n- New Logo & Branding (DualVoicerLogo)\n- Optimized Settings Panel (Non-scrollable)\n- Fixed Auto-Login & Hardware ID issues\n- Improved Stability",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v2.1.1/DualVoicer_v2.1.1_Setup.exe"
 }
