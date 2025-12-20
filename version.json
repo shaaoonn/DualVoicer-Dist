@@ -1,5 +1,5 @@
 {
-    "version": "2.1.1",
-    "release_notes": "✨ Major Update v2.1.1\n\n- New Logo & Branding (DualVoicerLogo)\n- Optimized Settings Panel (Non-scrollable)\n- Fixed Auto-Login & Hardware ID issues\n- Improved Stability",
-    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v2.1.1/DualVoicer_v2.1.1_Setup.exe"
+    "version": "2.2.1",
+    "release_notes": "✨ Major Critical Update v2.2.1\n\n- Fixed critical bug where UI was invisible\n- Restored Authentication System\n- Fixed Auto-Login persistent issue\n- Updates now download to 'Downloads' folder",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v2.2.1/DualVoicer_v2.2.1_Setup.exe"
 }
