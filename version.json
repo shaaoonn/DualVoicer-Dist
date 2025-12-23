@@ -1,5 +1,5 @@
 {
-    "version": "2.2.1",
-    "release_notes": "✨ Major Critical Update v2.2.1\n\n- Fixed critical bug where UI was invisible\n- Restored Authentication System\n- Fixed Auto-Login persistent issue\n- Updates now download to 'Downloads' folder",
-    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v2.2.1/DualVoicer_v2.2.1_Setup.exe"
+    "version": "3.0",
+    "release_notes": "🚀 Major Release v3.0\n\n✨ New Features:\n- Brand New Glassmorphism UI: Modern, transparent & draggable design\n- Advanced Control Panel: Adjustable opacity, scaling & mic sensitivity\n- Pro Buttons: Fixed layout with high-quality icons\n\n🛠️ Improvements:\n- Enhanced Voice Engine: Better accuracy for Bangla & English\n- Smart Auto-Login: Faster startup with secure authentication\n- Stability: Fixed UI glitches and optimized performance",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.0/DualVoicer_v3.0_Setup.exe"
 }
