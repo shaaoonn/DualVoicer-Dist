@@ -1,5 +1,5 @@
 {
-    "version": "3.5",
-    "release_notes": "🚀 Major Update v3.5\n\n✨ New Features:\n- 🎤 Google-Style Voice Core: Continuous listening & instant start (0.2s latency)\n- 🛡️ Robust Stability: Self-healing connection fixes 'stuck' microphone issues\n- 🎧 Microphone Selection: Select specific input device in Settings\n- 🔄 Aggressive Clean Install: Auto-removes old versions to prevent conflicts\n\n🛠️ Improvements:\n- Fixed screen flickering issue\n- Smart fallback to default mic on failure\n- Enhanced Bangla/English punctuation handling",
-    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.5/DualVoicer_v3.5_Setup.exe"
+    "version": "3.5.1",
+    "release_notes": "🚀 Major Update v3.5.1\n\n✨ New Features:\n- 🎤 Google-Style Voice Core: Continuous listening & instant start (0.2s latency)\n- 🛡️ Robust Stability: Self-healing connection fixes 'stuck' microphone issues\n- 🎧 Microphone Selection: Select specific input device in Settings\n- 🔄 Aggressive Clean Install: Auto-removes old versions to prevent conflicts\n\n🛠️ Improvements:\n- Fixed screen flickering issue\n- Smart fallback to default mic on failure\n- Enhanced Bangla/English punctuation handling",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.5.1/DualVoicer_v3.5.1_Setup.exe"
 }
