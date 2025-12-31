@@ -1,6 +1,7 @@
 {
-    "version": "3.5.3",
-    "release_notes": "🚀 Major Update v3.5.3\n\n✨ New Features:\n- 🎤 Google-Style Voice Core: Continuous listening & instant start (0.2s latency)\n- 🛡️ Robust Stability: Self-healing connection fixes 'stuck' microphone issues\n- 🎧 Microphone Selection: Select specific input device in Settings\n- 🔄 Aggressive Clean Install: Auto-removes old versions to prevent conflicts\n- 🆔 Persistent Device ID: Same device = Same ID forever (survives reinstall)\n- ♾️ Unlimited Re-Login: Registered devices can login unlimited times\n- 🔐 Auto-Login: No manual login needed after PC restart\n\n🛠️ Improvements:\n- Fixed screen flickering issue\n- Smart fallback to default mic on failure\n- Enhanced Bangla/English punctuation handling\n- Correct device limit display from subscription\n- Fullscreen auto-hide (games/videos)",
-    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.5.3/DualVoicer_v3.5.3_Setup.exe"
+    "version": "3.5.4",
+    "release_notes": "🚀 Major Upgrade v3.5.4\n\n🛡️ Voice Stability Guard (New):\n- Keeps microphone alive automatically. If it freezes, it restarts in <1s.\n- No more silent recording failures.\n\n🔄 Silent Auto-Updates:\n- Updates download silently in background.\n- Only notifies you when ready to install.\n\n🔒 Enhanced Security:\n- Strict 'One Device = One Trial' policy to prevent abuse.\n- Persistent Device ID for secure access.\n\n✨ Other Fixes:\n- Improved auto-login reliability.\n- Fullscreen game mode improvements.",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.5.4/DualVoicer_v3.5.4_Setup.exe"
 }
+
 
