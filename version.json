@@ -1,8 +1,9 @@
 {
-    "version": "3.5.7",
-    "release_notes": "🚀 Major Upgrade v3.5.7\n\n🛡️ Voice Stability Guard (New):\n- Keeps microphone alive automatically. If it freezes, it restarts in <1s.\n- No more silent recording failures.\n\n🔄 Silent Auto-Updates:\n- Updates download silently in background.\n- Only notifies you when ready to install.\n\n🔒 Enhanced Security:\n- Strict 'One Device = One Trial' policy to prevent abuse.\n- Persistent Device ID for secure access.\n\n✨ Other Fixes:\n- Improved auto-login reliability.\n- Fullscreen game mode improvements.",
-    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.5.7/DualVoicer_v3.5.7_Setup.exe"
+    "version": "3.6.2",
+    "release_notes": "🚀 Major Upgrade v3.6.2\n\n🛡️ Voice Stability Guard (New):\n- Keeps microphone alive automatically. If it freezes, it restarts in <1s.\n- No more silent recording failures.\n\n🔄 Silent Auto-Updates:\n- Updates download silently in background.\n- Only notifies you when ready to install.\n\n🔒 Enhanced Security:\n- Strict 'One Device = One Trial' policy to prevent abuse.\n- Persistent Device ID for secure access.\n\n✨ Other Fixes:\n- Improved auto-login reliability.\n- Fullscreen game mode improvements.",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.6.2/DualVoicer_v3.6.2_Setup.exe"
 }
+
 
 
 
