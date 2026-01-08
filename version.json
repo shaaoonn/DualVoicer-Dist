@@ -1,8 +1,9 @@
 {
     "version": "3.6.6",
-    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/raw/main/DualVoicer_v3.6.6_Setup.exe",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.6.6/DualVoicer_v3.6.6_Setup.exe",
     "release_notes": "DualVoicer v3.6.6\n\n🚀 Features & Fixes:\n- [NEW] Smart Streaming TTS (Instant Playback)\n- [NEW] Phone Verification Logic\n- [NEW] One Device One Trial (Server Side)\n- [FIXED] Missing Buttons/Icons\n- [FIXED] API Security (Firebase Removed)\n\nNote: Please restart the app after update."
 }
+
 
 
 
