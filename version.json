@@ -1,8 +1,9 @@
 {
-  "version": "3.6.5",
-  "release_notes": "🚀 Security & Stability Update v3.6.5\n\n🛡️ Security:\n- Strict Trial Enforcement (Auto-Login Blocked)\n- Immediate Login Validation\n- Auto-Logout for expired sessions\n\n🐛 Fixes:\n- 'Reset Engine' button now works perfectly\n- Text-to-Speech (TTS) Fixed\n- Console Window Hidden\n\n🇧🇩 New: User-friendly Bengali Error Messages",
-  "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/releases/download/v3.6.5/DualVoicer_v3.6.5_Setup.exe"
+    "version": "3.6.6",
+    "download_url": "https://github.com/shaaoonn/DualVoicer-Dist/raw/main/DualVoicer_v3.6.6_Setup.exe",
+    "release_notes": "DualVoicer v3.6.6\n\n🚀 Features & Fixes:\n- [NEW] Smart Streaming TTS (Instant Playback)\n- [NEW] Phone Verification Logic\n- [NEW] One Device One Trial (Server Side)\n- [FIXED] Missing Buttons/Icons\n- [FIXED] API Security (Firebase Removed)\n\nNote: Please restart the app after update."
 }
+
 
 
 
